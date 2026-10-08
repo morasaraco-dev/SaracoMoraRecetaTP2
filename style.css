@@ -1,4 +1,4 @@
-{
+*{
     box-sizing: border-box;
 }
 body {
@@ -7,7 +7,6 @@ body {
     background-color: #f3e5d0;
     color: #4b2e20;
 }
-
 header {
     background-color: #8b4a32;
     color: white;
@@ -15,14 +14,12 @@ header {
     margin: 10px;
     text-align: center;
 }
-
 nav {
     background-color: #c47a5a;
     padding: 15px;
     margin: 10px;
     text-align: center;
 }
-
 nav a {
     color: white;
     text-decoration: none;
@@ -45,11 +42,6 @@ article {
     margin-bottom: 15px;
 }
 
-article img {
-    width: 250px;
-    height: 180px;
-    object-fit: cover;
-}
 
 h1 {
     margin: 0;
@@ -69,5 +61,11 @@ footer {
     text-align: center;
     padding: 15px;
     margin: 10px;
+}
+
+header img{
+   width: 250px;
+    height: 180px;
+    object-fit: cover;
 }
 
