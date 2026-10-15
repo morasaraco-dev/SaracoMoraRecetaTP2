@@ -58,14 +58,12 @@ h3 {
 footer {
     background-color: #8b4a32;
     color: white;
-    text-align: center;
     padding: 15px;
     margin: 10px;
 }
 
 header img{
-   width: 250px;
-    height: 180px;
-    object-fit: cover;
+   width: 150px;
+    height: auto;
 }
 
