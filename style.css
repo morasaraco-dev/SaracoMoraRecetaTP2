@@ -52,12 +52,13 @@ h2 {
 }
 
 h3 {
-    color: #6b3928;
+    color: #8b4a32;
 }
 
 footer {
     background-color: #8b4a32;
     color: white;
+    text-align: center;
     padding: 15px;
     margin: 10px;
 }
